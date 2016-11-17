@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1443920022 source:c:\users\andre\documents\universidad y estudios\iv semestre\estructuras de datos y análisis de algoritmos\quices y tareas\i tarea programada\ii etapa\código\pila\lista.cpp
+	<iostream>
+	"lista.h"
+
+1443915099 c:\users\andre\documents\universidad y estudios\iv semestre\estructuras de datos y análisis de algoritmos\quices y tareas\i tarea programada\ii etapa\código\pila\lista.h
+	"nodo.h"
+
+1443917700 c:\users\andre\documents\universidad y estudios\iv semestre\estructuras de datos y análisis de algoritmos\quices y tareas\i tarea programada\ii etapa\código\pila\nodo.h
+	<iostream>
+
+1443918599 source:c:\users\andre\documents\universidad y estudios\iv semestre\estructuras de datos y análisis de algoritmos\quices y tareas\i tarea programada\ii etapa\código\pila\main.cpp
+	"lista.h"
+	<iostream>
+

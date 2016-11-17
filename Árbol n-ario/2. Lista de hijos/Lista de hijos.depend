@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1444847526 source:c:\users\andre\documents\universidad y estudios\iv semestre\estructuras de datos y análisis de algoritmos\quices y tareas\i tarea programada\iii etapa\código\Árbol n-ario\listahijos\arbol.cpp
+	"Arbol.h"
+
+1444847286 c:\users\andre\documents\universidad y estudios\iv semestre\estructuras de datos y análisis de algoritmos\quices y tareas\i tarea programada\iii etapa\código\Árbol n-ario\listahijos\arbol.h
+	"cajitaprincipal.h"
+
+1444414876 c:\users\andre\documents\universidad y estudios\iv semestre\estructuras de datos y análisis de algoritmos\quices y tareas\i tarea programada\iii etapa\código\Árbol n-ario\listahijos\cajitaprincipal.h
+	"cajitahijos.h"
+
+1444408804 c:\users\andre\documents\universidad y estudios\iv semestre\estructuras de datos y análisis de algoritmos\quices y tareas\i tarea programada\iii etapa\código\Árbol n-ario\listahijos\cajitahijos.h
+	"cajitaprincipal.h"
+
+1444408899 source:c:\users\andre\documents\universidad y estudios\iv semestre\estructuras de datos y análisis de algoritmos\quices y tareas\i tarea programada\iii etapa\código\Árbol n-ario\listahijos\cajitahijos.cpp
+	"cajitahijos.h"
+
+1444408770 source:c:\users\andre\documents\universidad y estudios\iv semestre\estructuras de datos y análisis de algoritmos\quices y tareas\i tarea programada\iii etapa\código\Árbol n-ario\listahijos\cajitaprincipal.cpp
+	"cajitaprincipal.h"
+	<iostream>
+
+1444847731 source:c:\users\andre\documents\universidad y estudios\iv semestre\estructuras de datos y análisis de algoritmos\quices y tareas\i tarea programada\iii etapa\código\Árbol n-ario\listahijos\main.cpp
+	"Arbol.h"
+	<iostream>
+
+1444408899 source:c:\users\andre\documents\universidad y estudios\iv semestre\estructuras de datos y análisis de algoritmos\quices y tareas\i tarea programada\iii etapa\código versión 2\Árbol n-ario\2. lista de hijos\cajitahijos.cpp
+	"cajitahijos.h"
+
+1444408804 c:\users\andre\documents\universidad y estudios\iv semestre\estructuras de datos y análisis de algoritmos\quices y tareas\i tarea programada\iii etapa\código versión 2\Árbol n-ario\2. lista de hijos\cajitahijos.h
+	"cajitaprincipal.h"
+
+1444414876 c:\users\andre\documents\universidad y estudios\iv semestre\estructuras de datos y análisis de algoritmos\quices y tareas\i tarea programada\iii etapa\código versión 2\Árbol n-ario\2. lista de hijos\cajitaprincipal.h
+	"cajitahijos.h"
+
+1444408770 source:c:\users\andre\documents\universidad y estudios\iv semestre\estructuras de datos y análisis de algoritmos\quices y tareas\i tarea programada\iii etapa\código versión 2\Árbol n-ario\2. lista de hijos\cajitaprincipal.cpp
+	"cajitaprincipal.h"
+	<iostream>
+
+1445656892 source:c:\users\andre\documents\universidad y estudios\iv semestre\estructuras de datos y análisis de algoritmos\quices y tareas\i tarea programada\iii etapa\código versión 2\Árbol n-ario\2. lista de hijos\main.cpp
+	"Arbol2.h"
+
+1445656892 c:\users\andre\documents\universidad y estudios\iv semestre\estructuras de datos y análisis de algoritmos\quices y tareas\i tarea programada\iii etapa\código versión 2\Árbol n-ario\2. lista de hijos\arbol2.h
+	"cajitaprincipal.h"
+	<iostream>
+

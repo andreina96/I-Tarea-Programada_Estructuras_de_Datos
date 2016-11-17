@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1445042842 source:c:\users\andre\documents\universidad y estudios\iv semestre\estructuras de datos y análisis de algoritmos\quices y tareas\i tarea programada\iii etapa\código\Árbol n-ario\3. hijo más izq- her der\arbol3.cpp
+	"Arbol3.h"
+
+1445042799 c:\users\andre\documents\universidad y estudios\iv semestre\estructuras de datos y análisis de algoritmos\quices y tareas\i tarea programada\iii etapa\código\Árbol n-ario\3. hijo más izq- her der\arbol3.h
+	"Cajita3.h"
+	<iostream>
+
+1444845061 c:\users\andre\documents\universidad y estudios\iv semestre\estructuras de datos y análisis de algoritmos\quices y tareas\i tarea programada\iii etapa\código\Árbol n-ario\3. hijo más izq- her der\cajita3.h
+	<iostream>
+
+1445042875 source:c:\users\andre\documents\universidad y estudios\iv semestre\estructuras de datos y análisis de algoritmos\quices y tareas\i tarea programada\iii etapa\código\Árbol n-ario\3. hijo más izq- her der\main.cpp
+	"Arbol3.h"
+
+1445789002 source:c:\users\andre\documents\universidad y estudios\iv semestre\estructuras de datos y análisis de algoritmos\quices y tareas\i tarea programada\iii etapa\código versión 2\Árbol n-ario\3. hijo más izq- her der\arbol3.cpp
+	"Arbol3.h"
+
+1445788981 c:\users\andre\documents\universidad y estudios\iv semestre\estructuras de datos y análisis de algoritmos\quices y tareas\i tarea programada\iii etapa\código versión 2\Árbol n-ario\3. hijo más izq- her der\arbol3.h
+	"Cajita3.h"
+	<iostream>
+
+1445656960 c:\users\andre\documents\universidad y estudios\iv semestre\estructuras de datos y análisis de algoritmos\quices y tareas\i tarea programada\iii etapa\código versión 2\Árbol n-ario\3. hijo más izq- her der\cajita3.h
+
+1445789014 source:c:\users\andre\documents\universidad y estudios\iv semestre\estructuras de datos y análisis de algoritmos\quices y tareas\i tarea programada\iii etapa\código versión 2\Árbol n-ario\3. hijo más izq- her der\main.cpp
+	"Arbol3.h"
+

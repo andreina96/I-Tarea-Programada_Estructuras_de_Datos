@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1445901467 source:c:\users\diego\desktop\código versión 2\pilaprueba\pilaprueba.cpp
+	<iostream>
+	"PilaPrueba.h"
+
+1445901467 c:\users\diego\desktop\código versión 2\pilaprueba\pilaprueba.h
+	"CajitaPilaP.h"
+
+1445901617 c:\users\diego\desktop\código versión 2\pilaprueba\cajitapilap.h
+	<iostream>
+
+1445904983 source:c:\users\andre\documents\universidad y estudios\iv semestre\estructuras de datos y análisis de algoritmos\quices y tareas\i tarea programada\iii etapa\código versión 3\pilaprueba\pilaprueba.cpp
+	<iostream>
+	"PilaPrueba.h"
+
+1445904703 c:\users\andre\documents\universidad y estudios\iv semestre\estructuras de datos y análisis de algoritmos\quices y tareas\i tarea programada\iii etapa\código versión 3\pilaprueba\pilaprueba.h
+	"CajitaPilaP.h"
+
+1445903996 c:\users\andre\documents\universidad y estudios\iv semestre\estructuras de datos y análisis de algoritmos\quices y tareas\i tarea programada\iii etapa\código versión 3\pilaprueba\cajitapilap.h
+	<iostream>
+

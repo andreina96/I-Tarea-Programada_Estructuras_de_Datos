@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1443551000 source:c:\users\andre\documents\universidad y estudios\iv semestre\estructuras de datos y análisis de algoritmos\quices y tareas\i tarea programada\ii etapa\código\cola\main.cpp
+	<stdlib.h>
+	<iostream>
+	"modeloCola.h"
+
+1443900972 c:\users\andre\documents\universidad y estudios\iv semestre\estructuras de datos y análisis de algoritmos\quices y tareas\i tarea programada\ii etapa\código\cola\modelocola.h
+	<string>
+
+1445755646 source:c:\users\andre\documents\universidad y estudios\iv semestre\estructuras de datos y análisis de algoritmos\quices y tareas\i tarea programada\iii etapa\código versión 2\cola\modelocola.cpp
+	"modeloCola.h"
+
+1445754771 c:\users\andre\documents\universidad y estudios\iv semestre\estructuras de datos y análisis de algoritmos\quices y tareas\i tarea programada\iii etapa\código versión 2\cola\modelocola.h
+	<string>
+
+1445756608 source:c:\users\andre\documents\universidad y estudios\iv semestre\estructuras de datos y análisis de algoritmos\quices y tareas\i tarea programada\iii etapa\código versión 2\cola\main.cpp
+	<stdlib.h>
+	<iostream>
+	"modeloCola.h"
+

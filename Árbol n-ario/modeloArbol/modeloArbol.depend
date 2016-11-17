@@ -1,0 +1,178 @@
+# depslib dependency file v1.0
+1444366787 source:c:\users\andre\documents\universidad y estudios\iv semestre\estructuras de datos y análisis de algoritmos\quices y tareas\i tarea programada\ii etapa\código\Árbol n-ario\modeloarbol\main.cpp
+	"modeloArbol.h"
+
+1444399862 c:\users\andre\documents\universidad y estudios\iv semestre\estructuras de datos y análisis de algoritmos\quices y tareas\i tarea programada\ii etapa\código\Árbol n-ario\modeloarbol\modeloarbol.h
+	"HMI-HD-Padre.cpp"
+	"cajitahmi-hd-p.h"
+	"cajitahmi-hd.h"
+	"cajitasap.h"
+
+1444376308 c:\users\andre\documents\universidad y estudios\iv semestre\estructuras de datos y análisis de algoritmos\quices y tareas\i tarea programada\ii etapa\código\Árbol n-ario\hmi-hd-padre\hmi-hd-padre.h
+	"cajitahmi-hd-p.h"
+	<iostream>
+
+1444376270 c:\users\andre\documents\universidad y estudios\iv semestre\estructuras de datos y análisis de algoritmos\quices y tareas\i tarea programada\ii etapa\código\Árbol n-ario\hmi-hd-padre\cajitahmi-hd-p.h
+	<iostream>
+
+1444376001 c:\users\andre\documents\universidad y estudios\iv semestre\estructuras de datos y análisis de algoritmos\quices y tareas\i tarea programada\ii etapa\código\Árbol n-ario\hmi-hd\hmi-hd.h
+	"cajitahmi-hd.h"
+	<iostream>
+
+1444368778 c:\users\andre\documents\universidad y estudios\iv semestre\estructuras de datos y análisis de algoritmos\quices y tareas\i tarea programada\ii etapa\código\Árbol n-ario\hmi-hd\cajitahmi-hd.h
+	<iostream>
+
+1444376024 c:\users\andre\documents\universidad y estudios\iv semestre\estructuras de datos y análisis de algoritmos\quices y tareas\i tarea programada\ii etapa\código\Árbol n-ario\arregloseñalpadre\arregloseñalpadre.h
+	"cajitasap.h"
+	<iostream>
+
+1444368588 c:\users\andre\documents\universidad y estudios\iv semestre\estructuras de datos y análisis de algoritmos\quices y tareas\i tarea programada\ii etapa\código\Árbol n-ario\arregloseñalpadre\cajitasap.h
+
+1444378089 source:c:\users\andre\documents\universidad y estudios\iv semestre\estructuras de datos y análisis de algoritmos\quices y tareas\i tarea programada\ii etapa\código\Árbol n-ario\modeloarbol\modeloarbol.cpp
+	"modeloArbol.h"
+
+1444376547 c:\users\andre\documents\universidad y estudios\iv semestre\estructuras de datos y análisis de algoritmos\quices y tareas\i tarea programada\ii etapa\código\Árbol n-ario\hmi-hd-padre\hmi-hd-padre.cpp
+	"HMI-HD-Padre.h"
+
+1444850274 source:c:\users\andre\documents\universidad y estudios\iv semestre\estructuras de datos y análisis de algoritmos\quices y tareas\i tarea programada\iii etapa\código\Árbol n-ario\modeloarbol\modeloarbol.cpp
+	"modeloArbol.h"
+	"Arbol1.cpp"
+
+1445043244 c:\users\andre\documents\universidad y estudios\iv semestre\estructuras de datos y análisis de algoritmos\quices y tareas\i tarea programada\iii etapa\código\Árbol n-ario\modeloarbol\modeloarbol.h
+	"Arbol1.h"
+
+1444849787 c:\users\andre\documents\universidad y estudios\iv semestre\estructuras de datos y análisis de algoritmos\quices y tareas\i tarea programada\iii etapa\código\Árbol n-ario\1. arreglo con señalador al padre\arbol1.h
+	"Cajita1.h"
+	<iostream>
+
+1444843196 c:\users\andre\documents\universidad y estudios\iv semestre\estructuras de datos y análisis de algoritmos\quices y tareas\i tarea programada\iii etapa\código\Árbol n-ario\1. arreglo con señalador al padre\cajita1.h
+
+1445041832 c:\users\andre\documents\universidad y estudios\iv semestre\estructuras de datos y análisis de algoritmos\quices y tareas\i tarea programada\iii etapa\código\Árbol n-ario\1. arreglo con señalador al padre\arbol1.cpp
+	"Arbol1.h"
+
+1445806600 source:c:\users\andre\documents\universidad y estudios\iv semestre\estructuras de datos y análisis de algoritmos\quices y tareas\i tarea programada\iii etapa\código versión 2\Árbol n-ario\modeloarbol\modeloarbol.cpp
+	"modeloArbol.h"
+	"modeloCola.cpp"
+	"modeloPila.cpp"
+	"cajita.h"
+	"arbol4.cpp"
+
+1445806600 c:\users\andre\documents\universidad y estudios\iv semestre\estructuras de datos y análisis de algoritmos\quices y tareas\i tarea programada\iii etapa\código versión 2\Árbol n-ario\modeloarbol\modeloarbol.h
+	"modeloCola.h"
+	"modeloPila.h"
+	"arbol4.h"
+	"cajita4.h"
+
+1445749593 c:\users\andre\documents\universidad y estudios\iv semestre\estructuras de datos y análisis de algoritmos\quices y tareas\i tarea programada\iii etapa\código versión 2\Árbol n-ario\1. arreglo con señalador al padre\arbol1.h
+	"Cajita1.h"
+	<iostream>
+
+1445710689 c:\users\andre\documents\universidad y estudios\iv semestre\estructuras de datos y análisis de algoritmos\quices y tareas\i tarea programada\iii etapa\código versión 2\Árbol n-ario\1. arreglo con señalador al padre\cajita1.h
+
+1445749982 c:\users\andre\documents\universidad y estudios\iv semestre\estructuras de datos y análisis de algoritmos\quices y tareas\i tarea programada\iii etapa\código versión 2\Árbol n-ario\1. arreglo con señalador al padre\arbol1.cpp
+	"Arbol1.h"
+
+1445785191 source:c:\users\andre\documents\universidad y estudios\iv semestre\estructuras de datos y análisis de algoritmos\quices y tareas\i tarea programada\iii etapa\código versión 2\Árbol n-ario\modeloarbol\main.cpp
+	"modeloArbol.h"
+
+1445656892 c:\users\andre\documents\universidad y estudios\iv semestre\estructuras de datos y análisis de algoritmos\quices y tareas\i tarea programada\iii etapa\código versión 2\Árbol n-ario\2. lista de hijos\arbol2.h
+	"cajitaprincipal.h"
+	<iostream>
+
+1444414876 c:\users\andre\documents\universidad y estudios\iv semestre\estructuras de datos y análisis de algoritmos\quices y tareas\i tarea programada\iii etapa\código versión 2\Árbol n-ario\2. lista de hijos\cajitaprincipal.h
+	"cajitahijos.h"
+
+1444408804 c:\users\andre\documents\universidad y estudios\iv semestre\estructuras de datos y análisis de algoritmos\quices y tareas\i tarea programada\iii etapa\código versión 2\Árbol n-ario\2. lista de hijos\cajitahijos.h
+	"cajitaprincipal.h"
+
+1445705426 c:\users\andre\documents\universidad y estudios\iv semestre\estructuras de datos y análisis de algoritmos\quices y tareas\i tarea programada\iii etapa\código versión 2\Árbol n-ario\2. lista de hijos\arbol2.cpp
+	"Arbol2.h"
+
+1444408899 c:\users\andre\documents\universidad y estudios\iv semestre\estructuras de datos y análisis de algoritmos\quices y tareas\i tarea programada\iii etapa\código versión 2\Árbol n-ario\2. lista de hijos\cajitahijos.cpp
+	"cajitahijos.h"
+
+1444408770 c:\users\andre\documents\universidad y estudios\iv semestre\estructuras de datos y análisis de algoritmos\quices y tareas\i tarea programada\iii etapa\código versión 2\Árbol n-ario\2. lista de hijos\cajitaprincipal.cpp
+	"cajitaprincipal.h"
+	<iostream>
+
+1445789746 c:\users\andre\documents\universidad y estudios\iv semestre\estructuras de datos y análisis de algoritmos\quices y tareas\i tarea programada\iii etapa\código versión 2\cola\modelocola.h
+	<string>
+	"cajita4.h"
+
+1445756649 c:\users\andre\documents\universidad y estudios\iv semestre\estructuras de datos y análisis de algoritmos\quices y tareas\i tarea programada\iii etapa\código versión 2\cola\modelocola.cpp
+	"modeloCola.h"
+
+1445789930 c:\users\andre\documents\universidad y estudios\iv semestre\estructuras de datos y análisis de algoritmos\quices y tareas\i tarea programada\iii etapa\código versión 2\pila\modelopila.h
+	"cajita.h"
+
+1445790258 c:\users\andre\documents\universidad y estudios\iv semestre\estructuras de datos y análisis de algoritmos\quices y tareas\i tarea programada\iii etapa\código versión 2\pila\cajita.h
+	<iostream>
+	"cajita4.h"
+
+1445787334 c:\users\andre\documents\universidad y estudios\iv semestre\estructuras de datos y análisis de algoritmos\quices y tareas\i tarea programada\iii etapa\código versión 2\pila\modelopila.cpp
+	<iostream>
+	"modeloPila.h"
+
+1445656960 c:\users\andre\documents\universidad y estudios\iv semestre\estructuras de datos y análisis de algoritmos\quices y tareas\i tarea programada\iii etapa\código versión 2\Árbol n-ario\3. hijo más izq- her der\cajita3.h
+
+1445788981 c:\users\andre\documents\universidad y estudios\iv semestre\estructuras de datos y análisis de algoritmos\quices y tareas\i tarea programada\iii etapa\código versión 2\Árbol n-ario\3. hijo más izq- her der\arbol3.h
+	"Cajita3.h"
+	<iostream>
+
+1445789533 c:\users\andre\documents\universidad y estudios\iv semestre\estructuras de datos y análisis de algoritmos\quices y tareas\i tarea programada\iii etapa\código versión 2\Árbol n-ario\3. hijo más izq- her der\arbol3.cpp
+	"Arbol3.h"
+
+1445790318 c:\users\andre\documents\universidad y estudios\iv semestre\estructuras de datos y análisis de algoritmos\quices y tareas\i tarea programada\iii etapa\código versión 2\Árbol n-ario\4. hijo más izq- her der- padre\cajita4.h
+	<iostream>
+
+1445657179 c:\users\andre\documents\universidad y estudios\iv semestre\estructuras de datos y análisis de algoritmos\quices y tareas\i tarea programada\iii etapa\código versión 2\Árbol n-ario\4. hijo más izq- her der- padre\arbol4.h
+	"Cajita4.h"
+	<iostream>
+
+1445652291 c:\users\andre\documents\universidad y estudios\iv semestre\estructuras de datos y análisis de algoritmos\quices y tareas\i tarea programada\iii etapa\código versión 2\Árbol n-ario\4. hijo más izq- her der- padre\arbol4.cpp
+	"Arbol4.h"
+
+1445807035 source:c:\users\andre\documents\universidad y estudios\iv semestre\estructuras de datos y análisis de algoritmos\quices y tareas\i tarea programada\iii etapa\código versión 3. final\Árbol n-ario\modeloarbol\main.cpp
+	"modeloArbol.h"
+
+1445908442 c:\users\andre\documents\universidad y estudios\iv semestre\estructuras de datos y análisis de algoritmos\quices y tareas\i tarea programada\iii etapa\código versión 3. final\Árbol n-ario\modeloarbol\modeloarbol.h
+	"modeloCola.h"
+	"modeloPila.h"
+	"arbol4.h"
+	"cajita4.h"
+
+1445906033 c:\users\andre\documents\universidad y estudios\iv semestre\estructuras de datos y análisis de algoritmos\quices y tareas\i tarea programada\iii etapa\código versión 3. final\cola\modelocola.h
+	<string>
+	"cajita4.h"
+
+1445790318 c:\users\andre\documents\universidad y estudios\iv semestre\estructuras de datos y análisis de algoritmos\quices y tareas\i tarea programada\iii etapa\código versión 3. final\Árbol n-ario\4. hijo más izq- her der- padre\cajita4.h
+	<iostream>
+
+1445906354 c:\users\andre\documents\universidad y estudios\iv semestre\estructuras de datos y análisis de algoritmos\quices y tareas\i tarea programada\iii etapa\código versión 3. final\pila\modelopila.h
+	"cajita.h"
+
+1445906354 c:\users\andre\documents\universidad y estudios\iv semestre\estructuras de datos y análisis de algoritmos\quices y tareas\i tarea programada\iii etapa\código versión 3. final\pila\cajita.h
+	<iostream>
+	"cajita4.h"
+
+1445909005 c:\users\andre\documents\universidad y estudios\iv semestre\estructuras de datos y análisis de algoritmos\quices y tareas\i tarea programada\iii etapa\código versión 3. final\Árbol n-ario\4. hijo más izq- her der- padre\arbol4.h
+	"Cajita4.h"
+	<iostream>
+
+1445908735 source:c:\users\andre\documents\universidad y estudios\iv semestre\estructuras de datos y análisis de algoritmos\quices y tareas\i tarea programada\iii etapa\código versión 3. final\Árbol n-ario\modeloarbol\modeloarbol.cpp
+	"modeloArbol.h"
+	"modeloCola.cpp"
+	"modeloPila.cpp"
+	"cajita.h"
+	"arbol4.cpp"
+
+1445906033 c:\users\andre\documents\universidad y estudios\iv semestre\estructuras de datos y análisis de algoritmos\quices y tareas\i tarea programada\iii etapa\código versión 3. final\cola\modelocola.cpp
+	"modeloCola.h"
+
+1445906354 c:\users\andre\documents\universidad y estudios\iv semestre\estructuras de datos y análisis de algoritmos\quices y tareas\i tarea programada\iii etapa\código versión 3. final\pila\modelopila.cpp
+	<iostream>
+	"modeloPila.h"
+
+1445652291 c:\users\andre\documents\universidad y estudios\iv semestre\estructuras de datos y análisis de algoritmos\quices y tareas\i tarea programada\iii etapa\código versión 3. final\Árbol n-ario\4. hijo más izq- her der- padre\arbol4.cpp
+	"Arbol4.h"
+

@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1444849258 source:c:\users\andre\documents\universidad y estudios\iv semestre\estructuras de datos y análisis de algoritmos\quices y tareas\i tarea programada\iii etapa\código\Árbol n-ario\1. arreglo con señalador al padre\arbol1.cpp
+	"Arbol1.h"
+
+1444849787 c:\users\andre\documents\universidad y estudios\iv semestre\estructuras de datos y análisis de algoritmos\quices y tareas\i tarea programada\iii etapa\código\Árbol n-ario\1. arreglo con señalador al padre\arbol1.h
+	"Cajita1.h"
+	<iostream>
+
+1444843196 c:\users\andre\documents\universidad y estudios\iv semestre\estructuras de datos y análisis de algoritmos\quices y tareas\i tarea programada\iii etapa\código\Árbol n-ario\1. arreglo con señalador al padre\cajita1.h
+
+1445041596 source:c:\users\andre\documents\universidad y estudios\iv semestre\estructuras de datos y análisis de algoritmos\quices y tareas\i tarea programada\iii etapa\código\Árbol n-ario\1. arreglo con señalador al padre\main.cpp
+	"Arbol1.h"
+
+1445748623 source:c:\users\andre\documents\universidad y estudios\iv semestre\estructuras de datos y análisis de algoritmos\quices y tareas\i tarea programada\iii etapa\código versión 2\Árbol n-ario\1. arreglo con señalador al padre\arbol1.cpp
+	"Arbol1.h"
+
+1445749593 c:\users\andre\documents\universidad y estudios\iv semestre\estructuras de datos y análisis de algoritmos\quices y tareas\i tarea programada\iii etapa\código versión 2\Árbol n-ario\1. arreglo con señalador al padre\arbol1.h
+	"Cajita1.h"
+	<iostream>
+
+1445710689 c:\users\andre\documents\universidad y estudios\iv semestre\estructuras de datos y análisis de algoritmos\quices y tareas\i tarea programada\iii etapa\código versión 2\Árbol n-ario\1. arreglo con señalador al padre\cajita1.h
+
+1445749698 source:c:\users\andre\documents\universidad y estudios\iv semestre\estructuras de datos y análisis de algoritmos\quices y tareas\i tarea programada\iii etapa\código versión 2\Árbol n-ario\1. arreglo con señalador al padre\main.cpp
+	"Arbol1.h"
+

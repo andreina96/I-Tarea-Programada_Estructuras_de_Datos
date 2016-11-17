@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1444402830 source:c:\users\andre\documents\universidad y estudios\iv semestre\estructuras de datos y análisis de algoritmos\quices y tareas\i tarea programada\iii etapa\código\pila\main.cpp
+	"modeloPila.h"
+	<iostream>
+
+1444403379 c:\users\andre\documents\universidad y estudios\iv semestre\estructuras de datos y análisis de algoritmos\quices y tareas\i tarea programada\iii etapa\código\pila\modelopila.h
+	"cajita.h"
+
+1444402899 c:\users\andre\documents\universidad y estudios\iv semestre\estructuras de datos y análisis de algoritmos\quices y tareas\i tarea programada\iii etapa\código\pila\cajita.h
+	<iostream>
+
+1445731198 source:c:\users\andre\documents\universidad y estudios\iv semestre\estructuras de datos y análisis de algoritmos\quices y tareas\i tarea programada\iii etapa\código versión 2\pila\modelopila.cpp
+	<iostream>
+	"modeloPila.h"
+
+1445731198 c:\users\andre\documents\universidad y estudios\iv semestre\estructuras de datos y análisis de algoritmos\quices y tareas\i tarea programada\iii etapa\código versión 2\pila\modelopila.h
+	"cajita.h"
+
+1445784372 c:\users\andre\documents\universidad y estudios\iv semestre\estructuras de datos y análisis de algoritmos\quices y tareas\i tarea programada\iii etapa\código versión 2\pila\cajita.h
+	<iostream>
+
